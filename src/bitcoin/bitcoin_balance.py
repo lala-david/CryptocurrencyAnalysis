@@ -22,7 +22,7 @@ if os.path.exists(file_path):
 
   now = datetime.datetime.now()
   timestamp = now.strftime("%Y%m%d_%H%M%S")  
-  out_file = f"./json/balances_{timestamp}.json"
+  out_file = f"./json/balance/balances_{timestamp}.json"
   print("🐧 Good work")
 
   with open(out_file, "w") as f:
