@@ -1,8 +1,9 @@
 # CryptocurrencyAnalysis 
 ### 👨🏻‍🔬 온체인 데이터 분석
-![Blockchain](https://img.shields.io/badge/Blockchain-%0099a4.svg?style=for-the-badge&logo=blockchain&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/bitcoin-%ffff00.svg?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/ethereum-%0080ff.svg?style=for-the-badge&logo=ethereum&logoColor=white)
+![Onchain_Analysis](https://img.shields.io/badge/Onchain_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/bitcoin-%FFFD700.svg?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Ethereum](https://img.shields.io/badge/ethereum-%0080ff.svg?style=for-the-badge&logoColor=white)
+
 
 ### 기능
 **온체인 분석 및 탐색**
