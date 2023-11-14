@@ -1,0 +1,23 @@
+{
+  "3D2oetdNuZUqQHPJmcMDDHYoqkyNVsFk9r": {
+    "3D2oetdNuZUqQHPJmcMDDHYoqkyNVsFk9r": {
+      "final_balance": 14940828,
+      "n_tx": 5693,
+      "total_received": 329952050191092
+    }
+  },
+  "bc1qkq7jtpk4c5dj55gfg5f9qfx5z36tau6a8mp8pg": {
+    "bc1qkq7jtpk4c5dj55gfg5f9qfx5z36tau6a8mp8pg": {
+      "final_balance": 0,
+      "n_tx": 2,
+      "total_received": 149852800
+    }
+  },
+  "1istendqWJ1mKvrdRUQZDL2F3tVDDyKdj": {
+    "1istendqWJ1mKvrdRUQZDL2F3tVDDyKdj": {
+      "final_balance": 0,
+      "n_tx": 410,
+      "total_received": 134313610
+    }
+  }
+}
