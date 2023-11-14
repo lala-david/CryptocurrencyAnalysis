@@ -24,9 +24,9 @@ while True:
 
     last_tx_hash = data['txs'][-1]['hash']
     url = f"https://api.blockcypher.com/v1/btc/main/addrs/{address}/full?before={last_tx_hash}"
-    # API 1 sec delay
+    # API 1 sec 
     time.sleep(1)  
 
 timestamp = int(time.time())
-with open(f'./json/timepattern/{address}"&"{timestamp}.json', 'w') as f:
+with open(f'output_{timestamp}.json', 'w') as f:
     json.dump(result, f)
