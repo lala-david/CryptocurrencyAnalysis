@@ -24,7 +24,7 @@ for i in range(24):
     avg_outputs.append(avg)
 avg_times = np.arange(24)
 
-plt.figure(figsize=(10, 10))
+plt.figure(figsize=(10, 4))
 plt.plot(avg_times, avg_outputs, marker='o')
 plt.scatter(times, outputs, s=5)
 plt.xticks(avg_times)
